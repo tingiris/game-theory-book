@@ -1,4 +1,4 @@
-# Winning Alone: Game Theory Tactics for One-Person Businesses
+# Winning Alone: Game Theory Essentials for Solopreneurs
 
 This is a book project I’m working on for [The Dabble.AI Project](https://dabble.ai). The goal is to use generative AI to 100% write an entire book that is publish worthy - in my opinion. 
 
