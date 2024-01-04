@@ -10,3 +10,5 @@ I’ll track the drafts below with my comments regarding the draft’s published
 
 - [Draft 1.0](./drafts/DRAFT%201-0%20-%20Strategic%20Moves_%20Mastering%20Game%20Theory%20-%20v1.pdf) - Not worthy. Not even close. Too short, only 12 pages.
 - [Draft 1.1](./drafts/DRAFT%201-1%20-%20Winning%20Alone_%20Game%20Theory%20Tactics%20for%20One-Person%20Businesses.pdf) - Not worthy. Much longer, 166 pages. Starts okay but clearly written by AI.
+
+> NOTE: If you want to see the prompts and code I'm using to generate the book subscribe at [dabble.ai](https://dabble.ai). I'll be sharing the details when I get things all figured out.
