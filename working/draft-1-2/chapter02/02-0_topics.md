@@ -25,3 +25,7 @@
 7. Traps to Avoid in Game Recognition
 - Common pitfalls and misconceptions in identifying and classifying games
 - Strategies to avoid these traps and increase your chances of correctly recognizing games.
+
+8. Examples and Exercises
+- Some real world scenarios
+- Practice exercises
